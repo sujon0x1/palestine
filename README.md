@@ -9,7 +9,7 @@ This tool allows you to show solidarity with Palestine by easily creating a prof
 
 1. **Visit Website:**
 
-    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://sujon0x1.github.io/palestine/)
+    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://sujon0xff.github.io/palestine/)
       
 2. Click on the profile picture section.
 3. Select an option to upload your photo.
